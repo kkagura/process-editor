@@ -1,0 +1,12 @@
+export const DEFAULT_LAYER = "defaultLayer";
+export const LINK_LAYER = "linkLayer";
+export const ELEMENT_BOX_CHANGED = "elementBoxChanged";
+export const ELEMENT_ADDED = "elementAdded";
+export const ELEMENT_REMOVED = "elementRemoved";
+export const BEFORE_ELEMENT_ADD = "beforeElementAdd";
+export const BEFORE_ELEMENT_REMOVE = "beforeElementRemove";
+export const VIEW_RECT_CHANGED = "viewRectChanged";
+export const SELECTION_CHANGED = "selectionChanged";
+export const PROP_CHANGED = "propChanged";
+export const HOST_PROP_CHANGED = "hostPropChanged";
+export const HOST_REMOVED = "hostRemoved";
